@@ -1,0 +1,68 @@
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Abashon_house.exe.config
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Abashon_house.exe
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Abashon_house.pdb
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Form1.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Properties.Resources.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.exe
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.pdb
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Login_Signup.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Google.Protobuf.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Zstandard.Net.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\System.Memory.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\System.Buffers.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\source\repos\Abashon_house\Abashon_house\bin\Debug\MySql.Data.xml
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.exe.config
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.CopyComplete
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Main.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Bill_make.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Add_renter.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Delete.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Delete_bill.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Bill_view.resources
+C:\Users\user\source\repos\Abashon_house\Abashon_house\obj\Debug\Abashon_house.View_bills.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Abashon_house.exe.config
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Abashon_house.exe
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Abashon_house.pdb
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\MySql.Data.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Google.Protobuf.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Zstandard.Net.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\BouncyCastle.Crypto.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Ubiety.Dns.Core.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\Renci.SshNet.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\System.Memory.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\System.Buffers.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\K4os.Compression.LZ4.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\K4os.Hash.xxHash.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\System.Numerics.Vectors.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\bin\Debug\MySql.Data.xml
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csprojAssemblyReference.cache
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.exe.config
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Add_renter.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Bill_make.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Bill_view.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Delete.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Delete_bill.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Form1.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Login_Signup.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Main.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.Properties.Resources.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.View_bills.resources
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.GenerateResource.cache
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.CoreCompileInputs.cache
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.csproj.CopyComplete
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.exe
+E:\Target Project C#\Monthly Project\Abashon_house\Abashon_house\obj\Debug\Abashon_house.pdb
